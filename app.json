@@ -3,7 +3,7 @@
   "description": "Open Source bot to stream media through Telegram Voice Chat. Powered by PyTgCalls and Pyrogram",
   "logo": "https://telegra.ph/file/9a85d0a873e2dd80d278d.jpg",
   "keywords": ["AnonymousMusic", "MusicBot", "Video-stream", "Videochat", "Voicechat", "Telegram"],
-  "repository": "https://github.com/AnonymousBoy1025/VCPlayer",
+  "repository": "https://github.com/Ribaj/VCPlayer",
   "stack": "container",
   "env": {
     "API_ID": {
